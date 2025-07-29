@@ -2,7 +2,9 @@
 Open Tsunami Structural Engineering Analysis tools
 [The OpenTSEA-toolkit is still under development but is fully functional]
 
-The OpenTSEA-toolkit provides a framework and functional tool for the fragility assessment of structures against user-specified tsunami loading scenarios. The OpenTSEA-toolkit brings together the computation of structure and tsunami dependent forces and facilitates tsunami structural response analysis. The toolkit employs a systematic approach for modelling and assessing structures' tsunami response under a multitude of scenarios, using OpenSees (McKenna, F. (1997)) via the Variable Depth Push Over (VDPO) analysis method. The toolkit enables users to accurately simulate the structural arrangement and building envelope all the while considering different permeability phases — enabling flow through the building at distinct stages. Lateral hydrodynamic tsunami forces can be calculated using either the ASCE 7/22 or the Foster et al 2017 formulations. 
+The OpenTSEA-toolkit provides a framework and functional tool for the fragility assessment of structures against user-specified tsunami loading scenarios. The OpenTSEA-toolkit brings together the computation of structure and tsunami dependent forces and facilitates tsunami structural response analysis. The toolkit employs a systematic approach for modelling and assessing structures' tsunami response under a multitude of scenarios using the Variable Depth Push Over (VDPO) analysis method. The toolkit enables users to accurately simulate the structural arrangement and building envelope all the while considering different permeability phases — enabling flow through the building at distinct stages. Lateral hydrodynamic tsunami forces can be calculated using either the ASCE 7/22 or the Foster et al 2017 formulations. 
+
+This application uses OpenSees: McKenna, F. (1997) Object oriented finite element analysis: Frameworks for analysis algorithms and parallel computing. Ph.D. dissertation, University of California, Berkeley.
 
 *OpenTSEA is currently configured for reinforced concrete structures.
 
