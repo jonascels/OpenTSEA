@@ -13,7 +13,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 If you use the OpenTSEA toolkit in your research, please cite:
-Jonas Cels, 2025. OpenTSEA. Zenodo. https://doi.org/[YOUR-DOI]
+Jonas Cels, 2025. OpenTSEA. [10.5281/zenodo.16575048](https://doi.org/10.5281/zenodo.16575047)
 
 ## Getting Started
 
